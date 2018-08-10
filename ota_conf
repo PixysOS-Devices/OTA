@@ -1,8 +1,8 @@
 #Common OTA url for all devices
-ota_url=https://raw.githubusercontent.com/PixysOS-Devices/OTA/master/pixys_ota.xml
+ota_url=https://raw.githubusercontent.com/PixysOS-Devices/OTA/oreo/pixys_ota.xml
 release_type=Stable
 device_name=ro.pixys.device
-version_source=ro.pixys.version
+version_source=ro.pixys.version_number
 version_delimiter=-
-version_position=4
+version_position=2
 version_format=yyyyMMdd
