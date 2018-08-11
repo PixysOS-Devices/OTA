@@ -1,6 +1,20 @@
-<SlimOTA
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-  <Stable>
- 
-  </Stable>	  
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <osprey>
+            <Filename>PixysOS-1.0-20180813-OFFICIAL-osprey.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Downloads"
+                description="Download latest builds">https://www.androidfilehost.com/?fid=3700668719832238236</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/Subinsmani/OTA/blob/master/Changelog.txt</ChangelogUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+	    </osprey>
+    </Stable>
 </SlimOTA>
