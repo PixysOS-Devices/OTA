@@ -1,1 +1,83 @@
 ====================
+   PixysOS V-2.0 
+====================
+Features Till now we Added
+Under Battery Section
+  Battery Icon Custimization Added
+      Portrait
+      Circle
+      Dotted Circle
+      Text
+      Hidden
+  Battery Percentage
+      Hidden
+      Next To the icon
+      Inside the icon
+  New animation Added to Battery Manager from Pixel Devices
+
+Under Display Settings
+  Font Size can not according to percentage
+  Toast App Icon (Toggable)
+  Lockscreen Charging Info (Toggable)
+  DTS(Status Bar) (Toggable)
+  21 Accents Added
+  dark Theme Added
+  Black Theme Added
+  
+Under Sound Settings
+  Short Cut to prevet Ring added(Pressing power + volume up)
+      Vibrate
+      Mute
+  Screnshot Sound (Toggable)
+  Charging Vibration (Toggable)
+
+Under Security and Location
+  Auto Face Unlock (Toggable)
+  fingerprint Authentication Viberation (Toggable)
+  DTS on Lockscreen (Toggable)
+
+Under Buttons Settings
+  Volume Rockers
+      Playback Control (Toggable)
+      Volume Rocker Wake (Toggable)
+      Volume Key cursor control
+  Clear All Buttons
+
+  Navigation Bar (Toggable)
+  Nvbar Button
+      Layout
+        Normal
+        Compact
+        Left-Leaning
+        Right-Leaning
+      Extra Left Button
+        Clipboard
+        Keycode
+        Rotate confirm,Keyboard Switcher
+      Extra Right Button
+        Clipboard
+        Keycode
+        Rotate confirm Keyboard Switcher
+  PowerMenu
+      Power, Restart, Advance Restart, Screenshot, Flashlight, Airplane, Settings, Lockdown, Users, Logout (Toggable)
+  Notifictaions
+      Battery Charging Light
+        Enable (Toggable)
+        Battery light in DND (Toggable)
+        Blinking Light in Low battery (Toggable)
+      Lockscreen Shortcuts
+        Left Shortcuts
+        Right Shortcuts
+      Status Bar Items
+New Wallpaper Credit to @Kbijaya
+AOSP Keyboard
+  Add Moar Key
+  Add new hardslog_dark theme
+  Add BLACKOUT Theme
+  Add Hardslog light theme
+
+Fixed Webview,(Many apps is not opening in last build due to webview bug. Now it full fixed)
+We add more stability and rom is more optimized
+
+
+Note:Need to flasg gapps with rom, Other wise u enjoy the rom with PixelLauncher FC
