@@ -1,6 +1,50 @@
-<SlimOTA
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-  <Stable>
- 
-  </Stable>	  
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <osprey>
+            <Filename>PixysOS-v2.0-20180905-OFFICIAL-osprey.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Downloads"
+                description="Download latest builds">https://www.androidfilehost.com/?fid=1322778262903998189</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://raw.githubusercontent.com/PixysOS-Devices/OTA/oreo/Changlogs/osprey.xml</ChangelogUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+	    </osprey>
+        <santoni>
+            <Filename>PixysOS-v2.0-20180907-OFFICIAL-santoni.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Downloads"
+                description="Download latest builds">https://androidfilehost.com/?fid=1322778262904000087</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://raw.githubusercontent.com/PixysOS-Devices/OTA/oreo/Changlogs/santoni.xml</ChangelogUrl>
+            <SlimGappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+            </santoni>
+        <whyred>
+            <Filename>PixysOS-v2.0-20180911-OFFICIAL-whyred.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Downloads"
+                description="Download latest builds">https://mirrors.c0urier.net/android/Miguel/PixysOS/PixysOS-v2.0-20180911-OFFICIAL-whyred.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://mirrors.c0urier.net/android/Miguel/PixysOS/Changelog.txt</ChangelogUrl>
+            <SlimGappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+            </whyred>
+    </Stable>
 </SlimOTA>
