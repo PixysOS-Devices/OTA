@@ -46,5 +46,20 @@
                 title="Gapps"
                 description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
             </whyred>
+        <X00TD>
+            <Filename>PixysOS-v2.0-20180914-OFFICIAL-X00TD.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Downloads"
+                description="Download latest builds">https://www.androidfilehost.com/?fid=1322778262904005547</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://raw.githubusercontent.com/PixysOS-Devices/OTA/pie/Changlogs/X00TD.xml</ChangelogUrl>
+            <SlimGappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+            </X00TD>
     </Stable>
 </SlimOTA>
