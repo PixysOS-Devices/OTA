@@ -61,5 +61,20 @@
                 title="Gapps"
                 description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
             </X00TD>
-    </Stable>
+        <s2>
+            <Filename>PixysOS-v2.0-20180918-OFFICIAL-s2.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Downloads"
+                description="Download latest builds">https://drive.google.com/file/d/1sCJK3yGItcY5DZn6cUlRxrjnJJluw9Yp/view?usp=drivesdk</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://raw.githubusercontent.com/PixysOS-Devices/OTA/pie/Changlogs/s2.xml</ChangelogUrl>
+            <SlimGappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+            </s2>
+	</Stable>
 </SlimOTA>
