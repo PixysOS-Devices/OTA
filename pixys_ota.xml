@@ -62,11 +62,11 @@
                 description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
             </X00TD>
         <s2>
-            <Filename>PixysOS-v2.0-20180919-OFFICIAL-s2.zip</Filename>
+            <Filename>PixysOS-v2.1-20180920-OFFICIAL-s2.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Downloads"
-                description="Download latest builds">https://drive.google.com/file/d/1Coophk9W276qnzcN1Smq3VtCzQ2-fMcj/view?usp=sharing</RomUrl>
+                description="Download latest builds">https://drive.google.com/file/d/1q4GWQBGfu9on3u1e6FTPu16ce6Eg4_h-/view?usp=drivesdk</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
