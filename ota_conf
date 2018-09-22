@@ -4,5 +4,5 @@ release_type=Stable
 device_name=ro.pixys.device
 version_source=ro.pixys.version_number
 version_delimiter=-
-version_position=2
-version_format=yyyyMMdd
+version_position=3
+version_format=yyyymmdd
