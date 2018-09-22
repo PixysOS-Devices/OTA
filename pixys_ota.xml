@@ -76,5 +76,21 @@
                 title="Gapps"
                 description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
             </s2>
+	    
+	  <rolex>
+            <Filename>PixysOS-v2.1-20180922-OFFICIAL-rolex.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Downloads"
+                description="Download latest builds">https://www.androidfilehost.com/?fid=1322778262904010915</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://raw.githubusercontent.com/PixysOS-Devices/OTA/pie/Changlogs/rolex.xml</ChangelogUrl>
+            <SlimGappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+            </rolex>
 	</Stable>
 </SlimOTA>
