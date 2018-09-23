@@ -1,0 +1,33 @@
+====================
+    23 -09-2018
+====================
+
+Source side Fixes :
+Face unlock is working now peferctly, earlier it was broken
+Battery data can show Apps usage, which was brokenearlier
+
+New Addition 
+Under Diplay Settings
+Fruity pebbles added
+Accidental Touch Added
+
+Under apps and Notification
+Headsup Custimization Added
+
+Under buttons -> Notifications Settings
+Traffic Indicator Added
+
+On Dialer app now u can Record audio calls
+
+Screenshot tiles added
+Gamming Mode Tiles added
+
+Did some costomize on Updater script
+Icons Are now Updated(Adaptive Icons)
+
+Pixel Launcher is update to most latest one, It will reduce rom lags
+
+Under the hood we did many optimization, which helps to run the rom smooth
+
+Device Side : 
+Removed OP gestures 
