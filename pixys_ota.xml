@@ -32,15 +32,15 @@
                 description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
             </santoni>
         <whyred>
-            <Filename>PixysOS-v2.0-20180911-OFFICIAL-whyred.zip</Filename>
+            <Filename>PixysOS-v2.1-20180923-whyred-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Downloads"
-                description="Download latest builds">https://mirrors.c0urier.net/android/Miguel/PixysOS/PixysOS-v2.0-20180911-OFFICIAL-whyred.zip</RomUrl>
+                description="Download latest builds">https://mirrors.c0urier.net/android/Miguel/PixysOS/PixysOS-v2.1-20180923-whyred-OFFICIAL.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://mirrors.c0urier.net/android/Miguel/PixysOS/Changelog.txt</ChangelogUrl>
+                description="View Changelog">https://raw.githubusercontent.com/PixysOS-Devices/OTA/pie/Changlogs/whyred.xml</ChangelogUrl>
             <SlimGappsUrl
                 id="gapps"
                 title="Gapps"
