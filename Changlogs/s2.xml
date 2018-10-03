@@ -1,4 +1,21 @@
 ====================
-     20-09-2018
+     03-10-2018
 ====================
-Version updated to 2.1  
+
+Version updated to 2.2
+
+October security patch merged
+Speedup the Screen Unlock
+Navigation Bar hide
+Auto Call Recording
+Reboot/Recovery QS Tile
+In call Viberation
+Caffeine Tiles added
+QS Tile Rows/Columns  Custmize done
+Fixed Status Bar Padding Issue
+Disable the power menu on lockscreen (Toggle)
+ADB over network done
+Add Toggle for disable dashboards conditions
+Add Toggle for Disable suggestions
+Add Toggle for adb notification icon
+Add Camera Roll instead of AOSP gallery app.  
